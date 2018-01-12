@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Egypt Guide</string>
+    <string name="home">Home</string>
+    <string name="places">Places</string>
+    <string name="contacts">Contact</string>
+    <string name="alexandria">Alexandria</string>
+    <string name="nile">The Nile</string>
+    <string name="cairo">Cairo</string>
+    <string name="luxer">Luxer</string>
+    <string name="aswan">Aswan</string>
+    <string name="muizz_street">Muizz Street</string>
+    <string name="alex_library">Alex Library</string>
+    <string name="city">CityView</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Rest</string>
+    <string name="about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reset">Reset</string>
+    <string name="send">Send</string>
+    <string name="user_name_messsage">Messege</string>
+    <string name="user_name_email">Email</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="giza_pyramids">Giza Pyramids</string>
+    <string name="desc_giza">The Great Pyramids I Don\'t need To Describe It</string>
+    <string name="desc_alex">One of The Most Beautiful Cities in Egypt and Africa. The Mediterranean\'s dazzling jewel</string>
+    <string name="desc_muizz">One of The oldest Streets In Cairo.A United Nations study found It To Have The Greatest Concentration of Medieval Architectural Treasures in The Islamic World</string>
+    <string name="market">Market</string>
+    <string name="desc_muizz_market">Markets in Muizz Street</string>
+    <string name="desc_muizz_street_view">Amazing Street</string>
+    <string name="desc_nile">The Nile ... The Most Beautiful View in all Over the Egypt</string>
+    <string name="desc_alex_lib">The Alexandrian Library is one of the most Famous Buildings in The Entire city</string>
+    <string name="desc_luxer">One Of the Oldest Cities in Egypt and Have A lot of Historical Building</string>
+    <string name="desc_aswan">Beauty of the Nile and the Amazing Historical Building</string>
+    <string name="about_frag">This is The City of Beauty and Magic Historical Building</string>
+</resources>
